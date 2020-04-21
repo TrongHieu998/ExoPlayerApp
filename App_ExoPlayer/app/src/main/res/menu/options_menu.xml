@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_track"
+        android:icon="@drawable/ic_color"
+        android:title= "Track âm thanh">
+    </item>
+    <item android:id="@+id/menu_dongbo"
+        android:icon="@drawable/ic_color"
+        android:title="Điều chỉnh đồng bộ hóa"/>
+    <item android:id="@+id/menu_lapdoan"
+        android:icon="@drawable/ic_color"
+        android:title="Lặp đoạn A-B"/>
+    <item android:id="@+id/menu_chedoguong"
+        android:icon="@drawable/ic_color"
+        android:title="Chế độ gương"/>
+    <item android:id="@+id/menu_chaynen"
+        android:icon="@drawable/ic_color"
+        android:title="Chạy nền"/>
+    <item android:id="@+id/menu_caidat"
+        android:icon="@drawable/ic_color"
+        android:title="Cài đặt chi tiết"/>
+</menu>
